@@ -3,7 +3,7 @@ In this kernel, I implement Naive Bayes Classification algorithm with Python and
 
 Table of Contents:
 
-# Introduction to Naive Bayes algorithm
+### Introduction to Naive Bayes algorithm
 # Naive Bayes algorithm intuition
 # Types of Naive Bayes algorithm
 # Applications of Naive Bayes algorithm
